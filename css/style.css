@@ -1,0 +1,589 @@
+div.container-fluid, .container {
+    padding:0;
+}
+
+section.header {
+    background: url(../img/background.jpg) no-repeat;
+}
+
+/**section Header**/
+.header {
+    padding-bottom: 24%;
+}
+.header .header-h2 {
+    padding-top: 9%;
+}
+
+.header .header-h2 h2 {
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font: 3.75rem "GothamProBold";
+}
+
+.header .header-p {
+    text-align: center;
+    color: #fff;
+    padding: 1% 0 14% 0;
+    font: 1.875rem "GothamProRegular";
+}
+
+.header .header-right {
+    float: right;
+}
+.header .header-right h3{
+    color: #b6f1ff;
+    font: 2.625rem "GothamProMedium";
+}
+
+.header .header-right p {
+    color: #fff;
+    font:1.875rem "GothamProRegular";
+    padding-bottom: 15%;
+    padding-top: 11%;
+}
+
+.header .header-right a {
+    background: #ff1744;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font:1.5rem "GothamProBlack";
+    padding: 5% 9%;
+}
+
+/*Content-block1*/
+
+.content-block1 h3 {
+    margin-bottom: 5%;
+    text-align: center;
+    font: 3rem "GothamProMedium";
+}
+
+.col1, .col2, .col3, .col4{
+    text-align:center;
+    margin-bottom: 4%;
+}
+
+.col1, .col2, .col3, .col4 p{
+    font:1.125rem "GothamProLight";
+}
+
+.content-block1 span {
+    font:1.125rem "GothamProMedium";
+}
+
+.content-block1 img {
+    margin-bottom: 5%;
+}
+
+/*Content-block2*/
+.content-block2 {
+    background: #f5f5f5;
+}
+
+.content-block2 h4 {
+    text-align: center;
+    font: 3rem "GothamProMedium";
+}
+
+.content-block2 .block-left-p {
+    font: 1.5rem "GothamProLight";
+    text-align: center;
+    color: #b8b8b8;
+    margin: 0;
+    padding: 2% 0 5% 0;
+}
+
+.content-block2 .block-left-img img{
+    width: 100%;
+    padding-left: 25%;
+}
+
+.content-block2 .block-left-text {
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+.content-block2 .block-left-text h5 {
+    font: 3rem "GothamProRegular";
+    padding-bottom: 3%;
+}
+
+.content-block2 .block-left-text span{
+    color: #6a6a6a;
+    font: 1.5rem "GothamProLight";
+}
+
+.content-block2 .block-left-text .way{
+    color: #333333;
+    padding: 3% 0;
+    font:1.125rem "GothamProLight";
+}
+
+.content-block2 .row {
+    border-bottom: 2px solid #cfd8dc;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+/**Right**/
+.content-block2 .block-right-img img{
+    width: 100%;
+    padding-left: 15%;
+}
+
+.content-block2 .block-right-text {
+    padding-top: 2%;
+    text-align: right;
+    padding-right: 10%;
+}
+
+.content-block2 .block-right-text h5 {
+    font: 3rem "GothamProRegular";
+    padding-bottom: 3%;
+}
+
+.content-block2 .block-right-text span{
+    color: #6a6a6a;
+    font: 1.5rem "GothamProLight";
+}
+
+.content-block2 .block-right-text .way{
+    color: #333333;
+    padding: 3% 0;
+    font:1.125rem "GothamProLight";
+}
+
+
+.content-block2 .last {
+    border-bottom: none;
+}
+/*Content-block3*/
+
+.content-block3 .row {
+    padding: 6% 0;
+}
+
+.content-block3 .content-block3-div1 {
+    text-align: center;
+}
+
+.content-block3 .content-block3-div2 {
+    text-align: center;
+}
+
+.content-block3 p.cours {
+    padding: 2% 0;
+    font:1.25rem "GothamProMedium";
+}
+
+.content-block3 p.coursNext {
+    color: #333333;
+    font:1.125rem "GothamProLight";
+}
+.content-block3 .button-a {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.content-block3 .button-a a{
+    text-decoration: none;
+    border-radius: 5px;
+    border: 3px solid  #ff1744;
+    color: #ff1744;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 1.3% 2.2%;
+    text-align: center;
+    font:1rem "GothamProBold";
+}
+
+/*Content-block4*/
+.content-block4 {
+    background: #f5f5f5;
+}
+.shar img{
+    position: relative;
+    left: 10%;
+    margin-bottom: -10%;
+    overflow: hidden;
+}
+
+.content-block4 .block4-h4 {
+    text-align: center;
+    padding-bottom: 6%;
+}
+
+.content-block4 .block4-h4 h4{
+    font: 3rem "GothamProMedium";
+}
+
+.content-block4 .block4-h4 img {
+    padding-left: 2%;
+    width: 10%;
+    padding-bottom: 0.5%;
+}
+
+.content-block4 .block4-h4 .block-p {
+    font:1.5rem "GothamProLight";
+}
+
+.content-block4 .block4-img {
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.content-block4 .block4-text {
+    text-align: center;
+}
+
+.content-block4 .block4-text h5 {
+    font:1.5rem "GothamProMedium";
+
+}
+
+.content-block4 .block4-text p {
+
+    padding: 2% 0;
+    font:1.5rem "GothamProLight";
+}
+
+/*Content-block5*/
+.content-block5 .row {
+    padding: 4.5% 0;
+    border-bottom: 2px solid #cfd8dc;
+}
+
+.content-block5 .block5-h4 h4 {
+    text-align: center;
+    padding-bottom: 4.4%;
+    color: #333;
+    font:3rem "GothamProRegular";
+    font-weight: bold;
+}
+
+.content-block5 .block5-video {
+    text-align: center;
+}
+
+/*Content-block6*/
+
+.content-block6 .row {
+    padding: 4.4% 0;
+    border-bottom: 2px solid #cfd8dc;
+}
+
+.content-block6 .block6-h4 h4{
+    font:3rem "GothamProMedium";
+    text-align: center;
+    padding-bottom: 4.4%;
+}
+
+
+.content-block6 .block6-img-p {
+    text-align: center;
+}
+
+.content-block6 .block6-img-p img {
+    padding-bottom: 10%;
+}
+
+.content-block6 .block6-img-p p {
+    font:1.125rem "GothamProLight";
+    color: #333333;
+}
+
+.content-block6 .member img{
+    margin-top: 6%;
+}
+
+.content-block6 .active {
+    border-bottom:6px solid #ff1744;
+    position: relative;
+    width: 9%;
+    float: right;
+    bottom: 4px;
+    right: 32.5%;
+}
+
+/*Content-block7*/
+
+.content-block7 .row {
+    margin-top: 7.4%;
+    margin-bottom: 4.4%;
+}
+
+.content-block7 .block7-img {
+    padding-left: 3%;
+    padding-top: 3%;
+}
+.content-block7 .block7-li h5 {
+    font:3rem "GothamProMedium";
+    padding-bottom: 4%;
+}
+
+.content-block7 .block7-li ul {
+    color: #ff1744;
+}
+
+.content-block7 .block7-li ul li p{
+    color: #333333;
+    padding-left: 2%;
+    font:1.125rem "GothamProLight";
+    padding-bottom: 3%;
+}
+
+/*Content-block8*/
+
+.content-block8 {
+    background: #f5f5f5;
+}
+
+.content-block8 .row {
+    margin-top: 4.4%;
+    margin-bottom: 4.4%;
+}
+
+.nav .active .tabnav{
+    color: #ffffff;
+    text-align: center;
+    font:1.25rem "GothamProMedium";
+}
+
+.nav .active .tabnav:hover{
+    background-color: #ff1744;
+    color: #ffffff;
+}
+
+.tab-content .tab-pane h3{
+    font:1.5rem "GothamProMedium";
+
+}
+
+.tab-content .tab-pane p{
+    font:1.125rem "GothamProLight";
+}
+
+.tab-content .tab-pane a {
+    background-color: #ff1744;
+    font:1.125rem "GothamProRegular";
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 1% 2%;
+    text-decoration: none;
+}
+
+.nav .tabnav{
+    background-color: #3f51b5;
+    color: #ffffff;
+}
+
+.nav .tabnav:hover{
+    background-color: #ff1744;
+    color: #ffffff;
+}
+
+.content-block8 .nav .active .tabnav{
+    background-color: #ff1744;
+    color: #ffffff;
+}
+
+.content-block8 .nav .tabnav{
+    font:1.25rem "GothamProMedium";
+    text-align: center;
+}
+
+/*Content-block9*/
+
+.content-block9 .row {
+    margin-top: 4.4%;
+    margin-bottom: 4.4%;
+}
+
+.content-block9 .block9-h5 h5{
+    text-align: center;
+    font:2.25rem "GothamProMedium";
+}
+
+.content-block9 .block9-counter {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.content-block9 .block9-counter p{
+    font:1.25rem "GothamProMedium";
+    padding-bottom: 2%;
+}
+
+.content-block9 .block9-counter #time {
+    background-color: #ff1744;
+    color: #ffffff;
+    font:8rem "GothamProMedium";
+    border-radius: 3%;
+    padding: 1.3%;
+    display: inline;
+}
+.content-block9 .block9-counter p{
+    font:1.125rem "GothamProLight";
+    padding-top: 2%;
+}
+
+.content-block9 .block9-counter span{
+    padding-left: 8%;
+}
+
+.content-block9 .block9-counter a{
+    font:1.125rem "GothamProBold";
+    color: #ff1744;
+    text-transform: uppercase;
+    border: 2px solid#ff1744;
+    border-radius: 4px;
+    padding: 1.3% 1.9%;
+    text-decoration: none;
+}
+
+/*Content-block10*/
+
+.content-block10 {
+    background-color: #fafafa;
+}
+.content-block10 .row {
+    margin-top: 4.4%;
+    margin-bottom: 4.4%;
+}
+
+.content-block10 .block10-h5 {
+    font:3rem "GothamProMedium";
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+.content-block10 .block10-h5 h5 {
+    font: 3rem "GothamProMedium";
+}
+
+.content-block10 .block10-img {
+    text-align: right;
+}
+
+.content-block10 .calendar-img {
+    padding-top: 3%;
+    padding-right: 18px;
+}
+
+.content-block10 .block10-bold .bold{
+    font:1.25rem "GothamProMedium";
+}
+
+.content-block10 .block10-bold .bold-2{
+    font:1.25rem "GothamProMedium";
+    margin-top: 3%;
+}
+
+.content-block10 .block10-bold .light-p{
+    font:1.125rem "GothamProLight";
+}
+
+.content-block10 .block10-bold .light-p span{
+    font:1.125rem "GothamProLight";
+    color: #ff1744;
+}
+
+/*Content-block11*/
+
+.content-block11 .row {
+    margin-top: 4.4%;
+    padding-bottom: 4.4%;
+    border-bottom: 2px solid #cfd8dc;
+}
+
+.content-block11 .block11-h5 h5{
+    font:3rem "GothamProMedium";
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+.content-block11 .block11-img{
+    text-align: center;
+}
+
+.content-block11 .block11-img img{
+    padding-bottom: 12%;
+}
+
+.content-block11 .block11-img .active{
+    color: #ff1744;
+    font:1.25rem "GothamProMedium";
+}
+
+.content-block11 .block11-img .active span {
+    font:1.125rem "GothamProLight";
+}
+
+.content-block11 .block11-arrow{
+    text-align: center;
+}
+
+.content-block11 .block11-arrow img{
+    padding-top: 45%;
+}
+
+.content-block11 .block11-img .normal{
+    font:1.25rem "GothamProMedium";
+}
+
+.content-block11 .block11-img .normal span {
+    font:1.125rem "GothamProLight";
+}
+
+/*Content-block12*/
+
+.content-block12 .row {
+    margin-top: 4.4%;
+    padding-bottom: 4.4%;
+}
+
+.content-block12 .block12-h5 h5{
+    font:3rem "GothamProMedium";
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+.content-block12 .block12-question{
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+
+.content-block12 .block12-bold{
+    font:1.25rem "GothamProMedium";
+    padding-bottom: 1%;
+}
+
+.content-block12 .block12-bold img{
+    padding-right: 2%;
+}
+
+.content-block12 .block12-question span{
+    font:1.125rem "GothamProLight";
+}
+
+/*footer*/
+
+section.footer {
+    background: #303f9f;
+}
+
+
+.footer .block-footer {
+    padding-top: 4.4%;
+    padding-bottom: 4.4%;
+    text-align: center;
+}
+
+.footer .block-footer p{
+    color: #ffffff;
+    font:1.125rem "GothamProLight";
+}
